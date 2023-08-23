@@ -12,9 +12,9 @@
 
 1. ![Picture of the Goat](download.jpg)
 
-1. ```python
+```python
 def hello_world():
-print("Hello, world!")
+  print("Hello, world!")
 ```
 
 
