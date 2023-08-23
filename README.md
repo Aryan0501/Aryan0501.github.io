@@ -6,7 +6,7 @@
 
 *DON CARELEONE*
 
-To make a link: [my github page] (https://aryan0501.github.io/)
+To make a link: [my github page](https://aryan0501.github.io/)
 
 
 
