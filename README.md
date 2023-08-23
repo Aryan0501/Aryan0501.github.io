@@ -3,8 +3,8 @@
 ## Contact Information
 
 - Email: aryan.kumar.052001@gmail.com
-- LinkedIn: [](https://www.linkedin.com/in/aryan-kumar-04355b209/)
-- GitHub: [](https://aryan0501.github.io/)
+- LinkedIn: [My Linkedin Page](https://www.linkedin.com/in/aryan-kumar-04355b209/)
+- GitHub: [My Github](https://aryan0501.github.io/)
 
 ## Education
 
