@@ -10,7 +10,7 @@
 
 1. ![Picture of the Goat](siuu.gif)
 
-1. ![Picture of the Goat](download.jpg)
+1. ![Picture of a Goat](download.jpg)
 
 ```python
 def hello_world():
