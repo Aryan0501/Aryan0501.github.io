@@ -3,8 +3,8 @@
 ## Contact Information
 
 - Email: aryan.kumar.052001@gmail.com
-- LinkedIn: [Aryan Kumar]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/aryan-kumar-04355b209/))
-- GitHub: [Aryan Kumar]([https://github.com/johndoe](https://aryan0501.github.io/))
+- LinkedIn: [](https://www.linkedin.com/in/aryan-kumar-04355b209/)
+- GitHub: [](https://aryan0501.github.io/)
 
 ## Education
 
@@ -17,6 +17,13 @@
 
 - Developed omnichannel fulfillment software products.
 - Developed applications using Java, Spring boot, Mongo DB, and Kafka
+
+## Projects
+
+### RECAPYT, PES UNIVERSITY, Bangalore
+
+- A solution that provides a video summary of a classroom lecture video. Jan/2022-Present
+- Designed a model using Machine Learning, Computer Vision, and NLP models which provides the summary of a classroom lecture video.
 
 ## Skills
 
