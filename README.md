@@ -2,27 +2,25 @@
 
 ## Contact Information
 
-- Email: john.doe@email.com
-- LinkedIn: [JohnDoe](https://www.linkedin.com/in/johndoe/)
-- GitHub: [JohnDoe](https://github.com/johndoe)
+- Email: aryan.kumar.052001@gmail.com
+- LinkedIn: [Aryan Kumar]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/aryan-kumar-04355b209/))
+- GitHub: [Aryan Kumar]([https://github.com/johndoe](https://aryan0501.github.io/))
 
 ## Education
 
-- B.S. in Computer Science, University of XYZ, 20XX
+- BTech. in Computer Science Engineering, PES UNIVERSITY, 2019
+- MS Data Science, University of Connecticut, 2023
 
 ## Experience
 
-### Software Developer, ABC Tech
+### Associate Software Developer, Nextuple Inc
 
-- Developed and maintained web applications using Python and Django.
-- Collaborated with cross-functional teams to deliver high-quality software solutions.
-
-### Intern, XYZ Company
-
-- Assisted in the design and implementation of a mobile app for iOS and Android.
+- Developed omnichannel fulfillment software products.
+- Developed applications using Java, Spring boot, Mongo DB, and Kafka
 
 ## Skills
 
 - Python
-- JavaScript
-- HTML/CSS
+- Java
+- MongoDB
+- SQL
