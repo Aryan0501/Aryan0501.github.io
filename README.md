@@ -1,6 +1,6 @@
-# Aryan0501.github.io
+# Aryan MS DS UCONN
 
-# LIKE H TAG
+# LIKE <H> tag in HTML
 
 1. **USAIN BOLD**
 
