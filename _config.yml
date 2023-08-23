@@ -1,5 +1,32 @@
-title: Aryan Kumar
-logo: 
-remote_theme: pages-themes/time-machine@v0.2.0
+# Site settings
+title: ARYAN KUMAR
+description: MS Data Science Student at UConn
+url: https://Aryan0501.github.io # Update with your actual GitHub Pages URL
+
+# Jekyll settings
+theme: jekyll-theme-minimal # You can change the theme to another Jekyll theme if desired
+
+# Navigation
+nav_links:
+  - text: Home
+    url: /
+  - text: About
+    url: /about # You can create an 'about.md' page for more info
+  - text: Contact
+    url: /contact # You can create a 'contact.md' page with contact details
+
+# Plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed # Include an RSS feed
+  - jekyll-seo-tag # SEO meta tags
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
