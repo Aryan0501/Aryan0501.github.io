@@ -1,16 +1,16 @@
 # Aryan0501.github.io
 
-*# LIKE H TAG
+# LIKE H TAG
 
-***USAIN BOLD**
+1. **USAIN BOLD**
 
-**DON CARELEONE*
+1. *DON CARELEONE*
 
-*Infinite Loop: [my github page](https://aryan0501.github.io/)
+1. *Infinite Loop: [my github page](https://aryan0501.github.io/)
 
-![Picture of the Goat](https://upload.wikimedia.org/wikipedia/commons/3/3c/Cristiano_Ronaldo.jpg)
+1. ![Picture of the Goat](https://upload.wikimedia.org/wikipedia/commons/3/3c/Cristiano_Ronaldo.jpg)
 
-![Picture of the Goat](download.jpg)
+1. ![Picture of the Goat](download.jpg)
 
 
 
