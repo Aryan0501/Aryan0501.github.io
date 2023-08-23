@@ -1,23 +1,28 @@
-# Aryan MS DS UCONN
+# John Doe
 
-# LIKE <H> tag in HTML
+## Contact Information
 
-1. **USAIN BOLD**
+- Email: john.doe@email.com
+- LinkedIn: [JohnDoe](https://www.linkedin.com/in/johndoe/)
+- GitHub: [JohnDoe](https://github.com/johndoe)
 
-1. *DON CARELEONE*
+## Education
 
-1. Infinite Loop: [my github page](https://aryan0501.github.io/)
+- B.S. in Computer Science, University of XYZ, 20XX
 
-1. ![Picture of the Goat](siuu.gif)
+## Experience
 
-1. ![Picture of a Goat](download.jpg)
+### Software Developer, ABC Tech
 
-```python
-def hello_world():
-  print("Hello, world!")
-```
+- Developed and maintained web applications using Python and Django.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
 
+### Intern, XYZ Company
 
+- Assisted in the design and implementation of a mobile app for iOS and Android.
 
+## Skills
 
-
+- Python
+- JavaScript
+- HTML/CSS
