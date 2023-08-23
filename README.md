@@ -12,6 +12,11 @@
 
 1. ![Picture of the Goat](download.jpg)
 
+1. ```python
+def hello_world():
+print("Hello, world!")
+```
+
 
 
 
