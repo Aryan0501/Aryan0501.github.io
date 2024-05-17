@@ -8,8 +8,8 @@
 
 ## Education
 
-- BTech. in Computer Science Engineering, PES UNIVERSITY, 2019-2023
-- Mater of Science. in Data Science, University of Connecticut, 2023-2024
+- Bachelor of Technology, Computer Science Engineering, PES UNIVERSITY, 2019-2023
+- Mater of Science, Data Science, University of Connecticut, 2023-2024
 
 ## Experience
 
